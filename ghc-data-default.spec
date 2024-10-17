@@ -8,7 +8,7 @@ Version:	0.5.1
 Release:	1
 License:	BSD
 Group:		Development/Other
-Url:		http://hackage.haskell.org/package/%{module}
+Url:		https://hackage.haskell.org/package/%{module}
 Source0:	http://hackage.haskell.org/packages/archive/%{module}/%{version}/%{module}-%{version}.tar.gz
 BuildRequires:	ghc-devel
 BuildRequires:	haddock
